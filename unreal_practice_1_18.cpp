@@ -1,7 +1,5 @@
 ﻿#include <iostream>
 #include <string>
-#include <algorithm>
-#include <ranges>
 
 class Player
 {
